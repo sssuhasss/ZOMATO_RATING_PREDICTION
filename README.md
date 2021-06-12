@@ -20,3 +20,5 @@
   
 ## Performance Summary
 
+![alt text](https://github.com/sssuhasss/ZOMATO_RATING_PREDICTION/blob/1b0ad6b3132dcc499488dc95a2b5d3b085ba809a/zomato.jpg)
+
